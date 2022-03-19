@@ -1,3 +1,6 @@
 [submodule "makefile-for-c"]
 	path = makefile-for-c
 	url = https://github.com/sanchitraj5/for-pull-demo
+[submodule "for-pull-demo"]
+	path = for-pull-demo
+	url = https://github.com/sanchitraj5/for-pull-demo
